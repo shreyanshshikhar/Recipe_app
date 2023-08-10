@@ -1,0 +1,1 @@
+const recipe_container = document.querySelectorAll('.recipe_container');
